@@ -32,24 +32,30 @@ p{
 }
 
 .big-text-division{
-    margin-right: 20%;
-    
     padding-left:8%;
-    width: 70%;
+    width: 60%;
 }
 
 .sm-image-division{
     padding-left: 8%;
-    width: 30%;
+    width: 40%;
 }
 
 .sm-image-division img{
-    width: 100%;
+    width: 85%;
 }
 
 .second-section-background{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
+}
+
+.community-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-position-y: bottom;
+    background-size: 10%;
 }
 
 .link-button{
