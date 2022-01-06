@@ -100,15 +100,15 @@ p{
 }
 
 #mission{
-    background-color: rgb(211, 235, 211);
+    background-color: rgba(188, 191, 202, 0.589);
 }
 
 #vision{
-    background-color: rgb(70, 181, 196);
+    background-color: rgba(172, 187, 189, 0.767);
 }
 
 #goal{
-    background-color: rgb(116, 126, 184);
+    background-color:rgba(211, 235, 211, 0.945);
 }
 
 
