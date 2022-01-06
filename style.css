@@ -10,9 +10,18 @@ h3{
     font-size: 30px;
 }
 
+h4{
+    font-size: 20px;
+}
+
 h5{
     font-size: 20px;
     text-align: center;
+}
+
+p{
+    padding-bottom: 10px;
+    text-align: justify;
 }
 
 .heading-align-center{
@@ -20,11 +29,6 @@ h5{
     margin-bottom:50px;
 }
 
-p{
-    padding-bottom: 10px;
-    text-align: justify;
-
-}
 
 .heading-special-color{
     color: orange;
