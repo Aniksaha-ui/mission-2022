@@ -123,14 +123,14 @@ p{
 }
 
 footer{
-    padding: 20px;
+    padding: 4px;
     background-color: black;
     color: white;
 }
 
 
 .footer-special-color{
-    color: red;
+    color: rgb(145, 44, 44);
 }
 
 footer p{
