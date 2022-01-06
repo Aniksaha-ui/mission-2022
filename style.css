@@ -28,6 +28,11 @@ p{
     color: orange;
 }
 
+#top-heading-design{
+    border-left: 4px solid orange;
+    padding-left: 15px;
+}
+
 .flexiable-section{
     
     display: flex;
