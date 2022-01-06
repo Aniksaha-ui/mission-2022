@@ -15,6 +15,11 @@ h5{
     text-align: center;
 }
 
+.heading-align-center{
+    text-align: center;
+    margin-bottom:50px;
+}
+
 p{
     padding-bottom: 10px;
 }
@@ -24,8 +29,16 @@ p{
 }
 
 .flexiable-section{
+    
     display: flex;
+    margin-left: 2%;
     margin-bottom:100px;
+}
+
+#flexdiv{
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .half-division{
@@ -43,7 +56,7 @@ p{
 }
 
 .sm-image-division{
-    padding-left: 8%;
+    padding-left:8%;
     width: 40%;
 }
 
@@ -51,7 +64,7 @@ p{
     width: 80%;
 }
 
-.second-section-background{
+.develop-section-background{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
 }
@@ -63,6 +76,34 @@ p{
     background-position-y:bottom;
     background-size: 10%;
 }
+
+
+.mission-division{
+    margin-left: 15px;
+    width: 25%;
+    padding-left: 10px;
+    border-radius: 25px;
+}
+
+.mission-division img{
+    width: 40%;
+    margin-left: 10%;
+    
+}
+
+#mission{
+    background-color: rgb(211, 235, 211);
+}
+
+#vision{
+    background-color: rgb(70, 181, 196);
+}
+
+#goal{
+    background-color: rgb(116, 126, 184);
+}
+
+
 
 .link-button{
     text-decoration: none;
@@ -86,5 +127,4 @@ footer{
 
 footer p{
      text-align: center;
-    
 }
