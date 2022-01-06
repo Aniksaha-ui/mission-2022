@@ -10,10 +10,6 @@ h3{
     font-size: 30px;
 }
 
-h4{
-    font-size: 20px;
-}
-
 h5{
     font-size: 20px;
     text-align: center;
@@ -36,7 +32,6 @@ p{
 
 #top-heading-design{
     border-left: 4px solid #AB7389;
-  
     padding-left: 15px;
 }
 
@@ -92,12 +87,11 @@ p{
 
 
 .mission-division{
-    margin-left: 15px;
+    margin-left: 14px;
     width: 25%;
     padding-left: 10px;
     border-radius: 25px;
 }
-
 
 .mission-division img{
     width: 40%;
