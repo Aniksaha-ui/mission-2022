@@ -23,6 +23,7 @@ h5{
 p{
     padding-bottom: 10px;
     text-align: justify;
+
 }
 
 .heading-special-color{
@@ -58,7 +59,8 @@ p{
 }
 
 .big-text-division{
-    padding-left:8%;
+    padding-left:6%;
+    padding-right: 2%;
     width: 60%;
 }
 
